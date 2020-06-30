@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	box-sizing: border-box;
+}
+.title{
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 24px;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 80px;
+}
+.container{
+	padding-top: 70px;
+	height: 600px;
+}
+.col-lg-2{
+	text-align: center;
+}
+.img-text{
+	color: #333333;
+	font-family: Tahoma;
+	font-size: 16px;
+	font-weight: 700;
+}
